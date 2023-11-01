@@ -9,26 +9,26 @@ Future work, automate this, or beg BOM to do it themselves. In the meantime http
 Use **vcf** for iPhones. Use **csv** for Google contacts or whatever else wants CSV.
 
 * NSW
-  * [vcf](https://github.com/Kahn/australia-awis-contacts/blob/main/vcf/NSW%20AWIS.vcf)
-  * [csv](https://github.com/Kahn/australia-awis-contacts/blob/main/csv/NSW%20AWIS%20-%20contacts.csv)
+  * [vcf](https://github.com/Kahn/australia-awis-contacts/raw/main/vcf/NSW%20AWIS.vcf)
+  * [csv](https://github.com/Kahn/australia-awis-contacts/raw/main/csv/NSW%20AWIS%20-%20contacts.csv)
 * NT
-  * [vcf](https://github.com/Kahn/australia-awis-contacts/blob/main/vcf/NT%20AWIS.vcf)
-  * [csv](https://github.com/Kahn/australia-awis-contacts/blob/main/csv/NT%20AWIS%20-%20contacts.csv)
+  * [vcf](https://github.com/Kahn/australia-awis-contacts/raw/main/vcf/NT%20AWIS.vcf)
+  * [csv](https://github.com/Kahn/australia-awis-contacts/raw/main/csv/NT%20AWIS%20-%20contacts.csv)
 * QLD
-  * [vcf](https://github.com/Kahn/australia-awis-contacts/blob/main/vcf/QLD%20AWIS.vcf)
-  * [csv](https://github.com/Kahn/australia-awis-contacts/blob/main/csv/QLD%20AWIS%20-%20contacts.csv)
+  * [vcf](https://github.com/Kahn/australia-awis-contacts/raw/main/vcf/QLD%20AWIS.vcf)
+  * [csv](https://github.com/Kahn/australia-awis-contacts/raw/main/csv/QLD%20AWIS%20-%20contacts.csv)
 * SA
-  * [vcf](https://github.com/Kahn/australia-awis-contacts/blob/main/vcf/SA%20AWIS.vcf)
-  * [csv](https://github.com/Kahn/australia-awis-contacts/blob/main/csv/SA%20AWIS%20-%20contacts.csv)
+  * [vcf](https://github.com/Kahn/australia-awis-contacts/raw/main/vcf/SA%20AWIS.vcf)
+  * [csv](https://github.com/Kahn/australia-awis-contacts/raw/main/csv/SA%20AWIS%20-%20contacts.csv)
 * TAS
-  * [vcf](https://github.com/Kahn/australia-awis-contacts/blob/main/vcf/TAS%20AWIS.vcf)
-  * [csv](https://github.com/Kahn/australia-awis-contacts/blob/main/csv/TAS%20AWIS%20-%20contacts.csv)
+  * [vcf](https://github.com/Kahn/australia-awis-contacts/raw/main/vcf/TAS%20AWIS.vcf)
+  * [csv](https://github.com/Kahn/australia-awis-contacts/raw/main/csv/TAS%20AWIS%20-%20contacts.csv)
 * VIC
-  * [vcf](https://github.com/Kahn/australia-awis-contacts/blob/main/vcf/VIC%20AWIS.vcf)
-  * [csv](https://github.com/Kahn/australia-awis-contacts/blob/main/csv/VIC%20AWIS%20-%20contacts.csv)
+  * [vcf](https://github.com/Kahn/australia-awis-contacts/raw/main/vcf/VIC%20AWIS.vcf)
+  * [csv](https://github.com/Kahn/australia-awis-contacts/raw/main/csv/VIC%20AWIS%20-%20contacts.csv)
 * WA
-  * [vcf](https://github.com/Kahn/australia-awis-contacts/blob/main/vcf/WA%20AWIS.vcf)
-  * [csv](https://github.com/Kahn/australia-awis-contacts/blob/main/csv/WA%20AWIS%20-%20contacts.csv)
+  * [vcf](https://github.com/Kahn/australia-awis-contacts/raw/main/vcf/WA%20AWIS.vcf)
+  * [csv](https://github.com/Kahn/australia-awis-contacts/raw/main/csv/WA%20AWIS%20-%20contacts.csv)
 
 ## Raw data
 
