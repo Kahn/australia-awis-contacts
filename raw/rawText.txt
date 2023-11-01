@@ -1,0 +1,2846 @@
+
+Australian Government
+Bureau of Meteorology
+LOCATION INFORMATION
+National
+Melbourne Airport. Photo, Jessica Neaves
+Availability of TAF, TAF3, AWS, Ceilometer, Vismeter & AWIS
+STATE
+LOCATION
+ID
+TAF
+TAF3
+AWS
+CEILOMETER
+VISMETER
+AWIS NO.
+AWIS FREQ.*
+SA
+Adelaide
+YPAD
+Y
+Y
+Y
+Y
+Y
+(08) 8150 3800
+N
+SA
+Adelaide/Parafield
+YPPF
+Y
+N
+Y
+Y
+Y
+(08) 8150 3813
+N
+WA
+Albany
+YABA
+Y
+N
+Y
+Y
+Y
+(08) 6216 2600
+Y
+NSW
+Albury
+YMAY
+Y
+N
+Y
+Y
+Y
+(02) 9353 6400
+Y
+NT
+Alice Springs
+YBAS
+Y
+N
+Y
+Y
+Y
+(08) 7922 2500
+Y
+QLD
+Amberley
+YAMB
+Y
+Y**
+Y
+Y
+Y
+(07) 3564 3700
+Y
+WA
+Argyle
+YARG
+Y
+N
+Y
+Y
+Y
+(08) 6216 2601
+N
+NSW
+Armidale
+YARM
+Y
+N
+Y
+Y
+Y
+(02) 9353 6401
+Y
+VIC
+Avalon
+YMAV
+Y
+N
+Y
+Y
+Y
+(03) 8470 3200
+Y
+NT
+Ayers Rock/Connellan (Yulara)
+YAYE
+Y
+N
+Y
+Y
+Y
+(08) 7922 2516
+Y
+VIC
+Bairnsdale
+YBNS
+Y
+N
+Y
+Y
+Y
+(03) 8470 3201
+N
+VIC
+Ballarat
+YBLT
+Y
+N
+Y
+Y
+Y
+(03) 8470 3202
+Y
+QLD
+Ballera
+YLLE
+Y
+N
+Y
+Y
+Y
+(07) 3564 3702
+Y
+NSW
+Ballina/Byron Gateway
+YBNA
+Y
+N
+Y
+Y
+Y
+(02) 9353 6402
+Y
+WA
+Barimunya
+YBRY
+Y
+N
+Y
+Y
+Y
+N
+Y
+WA
+Barrow Island
+YBWX
+Y
+N
+Y
+N
+N
+(08) 6216 2602
+Y
+NSW
+Bathurst
+YBTH
+Y
+N
+Y
+Y
+Y
+(02) 9353 6404
+Y
+NT
+Bathurst Island (Nguiu)
+YBTI
+Y
+N
+N
+N
+N
+N
+N
+NT
+Bayu Undan
+YBYU
+Y
+N
+Y
+Y
+Y
+N
+N
+VIC
+Bendigo
+YBDG
+Y
+N
+Y
+Y
+Y
+(03) 8470 3203
+Y
+QLD
+Birdsville
+YBDV
+Y
+N
+Y
+N
+N
+(07) 3564 3703
+N
+QLD
+Blackall
+YBCK
+N
+N
+Y
+N
+N
+(07) 3564 3704
+Y
+WA
+Boolgeeda
+YBGD
+Y
+N
+Y
+Y
+Y
+N
+Y
+NT
+Borroloola
+YBRL
+N
+N
+Y
+N
+N
+(08) 7922 2502
+N
+NSW
+Bourke
+YBKE
+Y
+N
+Y
+N
+N
+(02) 9353 6405
+Y
+QLD
+Brisbane
+YBBN
+Y
+Y
+Y
+Y
+Y
+(07) 3564 3705
+N
+QLD
+Brisbane/Archerfield
+YBAF
+Y
+N
+Y
+Y
+Y
+(07) 3564 3701
+Y
+QLD
+Brisbane West Wellcamp
+YBWW
+Y
+N
+Y
+Y
+Y
+(07) 3564 3746
+Y
+NSW
+Broken Hill
+YBHI
+Y
+N
+Y
+Y
+Y
+(02) 9353 6406
+N
+WA
+Broome/INTL
+YBRM
+Y
+N
+Y
+Y
+Y
+(08) 6216 2603
+Y
+WA
+Bunbury
+YBUN
+Y
+N
+Y
+Y
+Y
+N
+Y
+QLD
+Bundaberg
+YBUD
+Y
+N
+Y
+Y
+Y
+(07) 3564 3706
+Y
+QLD
+Burketown
+YBKT
+Y
+N
+Y
+Y
+Y
+(07) 3564 3707
+Y
+WA
+Busselton
+YBLN
+Y
+N
+Y
+N
+N
+(08) 6216 2604
+Y
+QLD
+Cairns/Cairns INTL
+YBCS
+Y
+Y
+Y
+Y
+Y
+(07) 3564 3708
+N
+NSW
+Camden
+YSCN
+Y
+N
+Y
+Y
+Y
+(02) 9353 6407
+Y
+NSW
+Canberra
+YSCB
+Y
+Y
+Y
+Y
+Y
+(02) 9353 6408
+Y
+WA
+Carnarvon
+YCAR
+Y
+N
+Y
+Y
+Y
+(08) 6216 2605
+Y
+NSW
+Casino
+YCAS
+N
+N
+Y
+N
+N
+(02) 9353 6409
+N
+SA
+Ceduna
+YCDU
+Y
+N
+Y
+Y
+Y
+(08) 8150 3801
+N
+QLD
+Century Mine
+YCNY
+N
+N
+Y
+N
+N
+(07) 3564 3709
+Y
+PUBLISHED 5 APRIL 2022
+1
+STATE
+LOCATION
+ID
+TAF
+TAF3
+AWS
+CEILOMETER
+VISMETER
+AWIS NO.
+AWIS FREQ.*
+NSW
+Cessnock
+YCNK
+N
+N
+Y
+N
+N
+(02) 9353 6410
+N
+QLD
+Charleville
+YBCV
+Y
+N
+Y
+Y
+Y
+(07) 3564 3710
+N
+VIC
+Charlton
+YCHL
+N
+N
+Y
+N
+N
+N
+N
+QLD
+Chinchilla
+YCCA
+Y
+N
+Y
+Y
+Y
+(07) 4662 7582
+Y
+WA
+Christmas Creek
+YCHK
+Y
+N
+Y
+Y
+Y
+N
+Y
+WA
+Christmas Island
+YPXM
+Y
+N
+Y
+Y
+Y
+N
+Y
+QLD
+Clermont
+YCMT
+Y
+N
+Y
+Y
+Y
+N
+N
+SA
+Cleve
+YCEE
+N
+N
+Y
+N
+N
+(08) 8150 3802
+Y
+QLD
+Cloncurry
+YCCY
+Y
+N
+Y
+Y
+Y
+(07) 3564 3711
+Y
+NSW
+Cobar
+YCBA
+Y
+N
+Y
+Y
+Y
+(02) 9353 6411
+Y
+WA
+Cocos (Keeling) Islands
+YPCC
+Y
+N
+Y
+Y
+Y
+(08) 6216 2607
+Y
+QLD
+Coen
+YCOE
+Y
+N
+Y
+N
+N
+N
+N
+NSW
+Coffs Harbour
+YCFS
+Y
+N
+Y
+Y
+Y
+(02) 9353 6412
+Y
+VIC
+Coldstream
+YCEM
+N
+N
+Y
+N
+N
+(03) 8470 3205
+Y
+NSW
+Condobolin
+YCDO
+N
+N
+Y
+N
+N
+(02) 9353 6413
+N
+SA
+Coober Pedy
+YCBP
+Y
+N
+Y
+Y
+Y
+(08) 8150 3803
+Y
+QLD
+Cooktown
+YCKN
+Y
+N
+Y
+Y
+Y
+(07) 3564 3712
+Y
+NSW
+Cooma Snowy Mountains
+YCOM
+Y
+N
+Y
+Y
+Y
+(02) 9353 6414
+N
+NSW
+Coonabarabran
+YCBB
+Y
+N
+Y
+Y
+Y
+(02) 9353 6415
+Y
+NSW
+Coonamble
+YCNM
+N
+N
+Y
+N
+N
+(02) 9353 6416
+Y
+WA
+Coonndewanna
+YCWA
+Y
+N
+Y
+Y
+Y
+N
+Y
+NSW
+Cowra
+YCWR
+N
+N
+Y
+N
+N
+(02) 9353 6417
+Y
+SA
+Cummins Town
+YCMM
+N
+N
+Y
+N
+N
+(08) 8150 3804
+N
+WA
+Cunderdin
+YCUN
+Y
+N
+Y
+Y
+Y
+(08) 6216 2608
+N
+WA
+Curtin
+YCIN
+Y
+N
+Y
+Y
+Y
+(08) 62162 2609
+N
+NT
+Darwin
+YPDN
+Y
+Y
+Y
+Y
+Y
+(08) 7922 2503
+N
+WA
+Degrussa
+YDGU
+N
+N
+Y
+Y
+Y
+N
+Y
+NSW
+Deniliquin
+YDLQ
+N
+N
+Y
+N
+N
+(02) 9353 6418
+Y
+WA
+Derby
+YDBY
+Y
+N
+Y
+Y
+Y
+(08) 6216 2610
+Y
+TAS
+Devonport
+YDPO
+Y
+N
+Y
+Y
+Y
+(03) 6283 8600
+Y
+NSW
+Dubbo
+YSDU
+Y
+N
+Y
+Y
+Y
+(02) 9353 6419
+Y
+VIC
+East Sale
+YMES
+Y
+Y**
+Y
+Y
+Y
+(03) 8470 3206
+Y
+VIC
+Edenhope
+YEDE
+N
+N
+Y
+N
+N
+N
+N
+SA
+Edinburgh
+YPED
+Y
+N
+Y
+Y
+Y
+(08) 8150 3805
+Y
+NT
+Elcho Island (Ngayawili)
+YELD
+Y
+N
+Y
+N
+N
+N
+N
+WA
+Eliwana
+YEWA
+Y
+N
+Y
+Y
+Y
+N
+Y
+QLD
+Emerald
+YEML
+Y
+N
+Y
+Y
+Y
+(07) 3564 3714
+Y
+SA
+Ernabella (Pukatja)
+I
+YERN
+Y
+N
+Y
+N
+N
+(08) 8150 3816
+N
+WA
+Esperance
+YESP
+Y
+N
+Y
+Y
+Y
+(08) 6216 2611
+Y
+VIC
+Falls Creek
+YFLK
+N
+N
+Y
+N
+N
+N
+N
+WA
+Fitzroy Crossing
+YFTZ
+Y
+N
+Y
+N
+N
+(08) 6216 2612
+N
+TAS
+Flinders Island
+YFLI
+Y
+N
+Y
+Y
+Y
+(03) 6283 8601
+Y
+NSW
+Forbes
+YFBS
+N
+N
+Y
+N
+N
+(02) 9353 6420
+N
+WA
+Forrest
+YFRT
+Y
+N
+Y
+Y
+Y
+(08) 6216 2613
+Y
+WA
+Fortescue Dave Forrest
+YFDF
+Y
+N
+Y
+Y
+Y
+N
+Y
+QLD
+Gayndah
+YGAY
+N
+N
+Y
+N
+N
+N
+N
+QLD
+Georgetown (QLD)
+YGTN
+Y
+N
+Y
+Y
+Y
+N
+N
+WA
+Geraldton
+YGEL
+Y
+N
+Y
+Y
+Y
+(08) 6216 2615
+Y
+WA
+Giles
+YGLS
+Y
+N
+Y
+Y
+Y
+N
+N
+WA
+Gingin
+YGIG
+N
+N
+Y
+N
+N
+(08) 6216 2616
+N
+2
+PUBLISHED 5 APRIL 2022
+STATE
+LOCATION
+ID
+TAF
+TAF3
+AWS
+CEILOMETER
+VISMETER
+AWIS NO.
+AWIS FREQ.
+QLD
+Gladstone
+YGLA
+Y
+N
+Y
+Y
+Y
+(07) 3564 3715
+Y
+NSW
+Glen Innes
+YGLI
+Y
+N
+Y
+Y
+Y
+(02) 9353 6421
+N
+QLD
+Gold Coast
+YBCG
+Y
+Y
+Y
+Y
+Y
+(07) 3564 3713
+Y
+WA
+Golden Grove
+YGGE
+Y
+N
+Y
+Y
+Y
+N
+Y
+QLD
+Goondiwindi
+YGDI
+N
+N
+Y
+N
+N
+N
+N
+NSW
+Goulburn
+YGLB
+Y
+N
+Y
+Y
+Y
+(02) 9353 6422
+Y
+NT
+Gove
+YPGV
+Y
+N
+Y
+Y
+Y
+(08) 7922 2505
+Y
+NSW
+Grafton
+YGFN
+Y
+N
+Y
+Y
+Y
+(02) 9353 6423
+Y
+NSW
+Griffith
+YGTH
+Y
+N
+Y
+Y
+Y
+(02) 9353 6424
+Y
+NT
+Groote Eylandt
+YGTE
+Y
+N
+Y
+Y
+Y
+(08) 7922 2506
+Y
+WA
+Gudai-Darri Mine
+YKDD
+Y
+N
+Y
+Y
+Y
+N
+Y
+NSW
+Gunnedah
+YGDH
+N
+N
+Y
+N
+N
+(02) 9353 6425
+N
+WA
+Halls Creek
+YHLC
+Y
+N
+Y
+Y
+Y
+(08) 6216 2617
+N
+VIC
+Hamilton
+YHML
+Y
+N
+Y
+N
+N
+(03) 8470 3208
+Y
+QLD
+Hamilton Island
+YBHM
+Y
+N
+Y
+Y
+Y
+(07) 3564 3716
+Y
+NSW
+Hay
+YHAY
+N
+N
+Y
+Y
+Y
+(02) 9353 6426
+N
+QLD
+Heron Island
+YHRN
+N
+N
+Y
+N
+N
+N
+N
+QLD
+Hervey Bay
+YHBA
+Y
+N
+Y
+Y
+Y
+(07) 3564 3717
+Y
+TAS
+Hobart
+YMHB
+Y
+Y
+Y
+Y
+Y
+(03) 6283 8602
+Y
+NSW
+Holsworthy
+YSHW
+Y
+N
+Y
+Y
+Y
+(02) 9353 6427
+N
+NT
+Hooker Creek (Lajamanu)
+YHOO
+Y
+N
+Y
+N
+N
+(08) 7922 2508
+N
+VIC
+Hopetoun
+YHPN
+N
+N
+Y
+N
+N
+N
+N
+QLD
+Horn Island
+YHID
+Y
+N
+Y
+Y
+Y
+(07) 3564 3718
+Y
+VIC
+Horsham
+YHSM
+Y
+N
+Y
+Y
+Y
+(03) 8470 3209
+Y
+QLD
+Hughenden
+YHUG
+Y
+N
+Y
+Y
+Y
+(07) 3564 3719
+Y
+QLD
+Innisfail
+YIFL
+Y
+N
+Y
+Y
+Y
+N
+Y
+WA
+Iron Bridge Mine
+YIBO
+Y
+N
+Y
+Y
+Y
+N
+Y
+NSW
+Ivanhoe
+YIVO
+Y
+N
+Y
+N
+N
+(02) 9353 6428
+Y
+NT
+Jabiru
+YJAB
+Y
+N
+Y
+N
+N
+(08) 7922 2507
+Y
+QLD
+Julia Creek
+YJLC
+Y
+N
+Y
+N
+N
+N
+N
+SA
+Kadina
+YKDI
+N
+N
+Y
+N
+N
+N
+N
+WA
+Kalgoorlie-Boulder
+YPKG
+Y
+N
+Y
+Y
+Y
+(08) 6216 2619
+Y
+WA
+Kalumburu
+YKAL
+N
+N
+Y
+N
+N
+N
+N
+WA
+Karratha
+YPKA
+Y
+N
+Y
+Y
+Y
+(08) 6216 2620
+Y
+NSW
+Kempsey
+YKMP
+N
+N
+Y
+N
+N
+(02) 9353 6430
+Y
+VIC
+Kilmore Gap
+KMG
+N
+N
+Y
+Y
+Y
+(03) 8470 3210
+Y
+TAS
+King Island
+YKII
+Y
+N
+Y
+Y
+Y
+(03) 6283 8603
+Y
+QLD
+Kingaroy
+YKRY
+Y
+N
+Y
+Y
+Y
+(07) 3564 3720
+Y
+SA
+Kingscote/Kangaroo Island
+YKSC
+Y
+N
+Y
+Y
+Y
+(08) 8150 3806
+Y
+NT
+Kintore (Wulungurru)
+YKNT
+N
+N
+Y
+N
+N
+N
+N
+WA
+Koolan Island/Koolan Central
+YKLC
+Y
+N
+Y
+Y
+Y
+N
+Y
+QLD
+Kowanyama
+YKOW
+Y
+N
+Y
+Y
+Y
+(07) 3564 3721
+Y
+WA
+Kununurra
+YPKU
+Y
+N
+Y
+Y
+Y
+(08) 6216 2621
+Y
+VIC
+Latrobe Valley
+YLTV
+Y
+N
+Y
+Y
+Y
+(03) 8470 3211
+Y
+TAS
+Launceston
+YMLT
+Y
+N
+Y
+Y
+Y
+(03) 6283 8604
+Y
+WA
+Laverton
+YLTN
+N
+N
+Y
+N
+N
+(08) 6216 2622
+Y
+VIC
+Laverton
+YLVT
+N
+N
+Y
+Y
+Y
+N
+N
+WA
+Learmonth
+YPLM
+Y
+N
+Y
+Y
+Y
+(08) 6216 2623
+N
+SA
+Leigh Creek
+YLEC
+Y
+N
+Y
+Y
+Y
+(08) 8150 3807
+N
+WA
+Leinster
+YLST
+Y
+N
+Y
+Y
+Y
+(08) 6216 2624
+Y
+PUBLISHED 5 APRIL 2022
+3
+STATE
+LOCATION
+ID
+TAF
+TAF3
+AWS
+CEILOMETER
+VISMETER
+AWIS NO.
+AWIS FREQ.*
+WA
+Leonora
+YLEO
+Y
+N
+Y
+Y
+Y
+(08) 62162625
+Y
+NSW
+Lismore
+YLIS
+Y
+N
+Y
+Y
+Y
+(02) 9353 6431
+Y
+QLD
+Lockhart River
+YLHR
+Y
+N
+Y
+Y
+Y
+(07) 3564 3722
+Y
+WA
+Lombadina
+YLBD
+Y
+N
+Y
+Y
+Y
+N
+N
+QLD
+Longreach
+YLRE
+Y
+N
+Y
+Y
+Y
+(07) 3564 3723
+N
+NSW
+Lord Howe Island
+YLHI
+Y
+N
+Y
+Y
+Y
+(02) 9353 6432
+Y
+QLD
+Mackay
+YBMK
+Y
+N
+Y
+Y
+Y
+(07) 3564 3724
+N
+NSW
+Maitland (NSW)
+YMND
+Y
+N
+Y
+Y
+Y
+(02) 9353 6433
+N
+VIC
+Mallacoota
+YMCO
+N
+N
+Y
+N
+N
+(03) 8470 3212
+N
+VIC
+Mangalore
+YMNG
+Y
+N
+Y
+Y
+Y
+(03) 8470 3213
+Y
+NT
+Maningrida
+YMGD
+Y
+N
+Y
+Y
+Y
+(08) 7922 2509
+N
+QLD
+Mareeba
+YMBA
+Y
+N
+Y
+N
+N
+(07) 3564 3725
+Y
+SA
+Marree
+YMRE
+N
+N
+Y
+N
+N
+N
+N
+QLD
+Maryborough (QLD)
+YMYB
+Y
+N
+Y
+Y
+Y
+(07) 3564 3726
+Y
+NT
+McArthur River Mine
+YMHU
+Y
+N
+Y
+Y
+Y
+(08) 7922 2510
+Y
+WA
+Meekatharra
+YMEK
+Y
+N
+Y
+Y
+Y
+(08) 6216 2626
+Y
+VIC
+Melbourne
+YMML
+Y
+Y
+Y
+Y
+Y
+(03) 8470 3214
+N
+VIC
+Melbourne/Essendon
+YMEN
+Y
+N
+Y
+Y
+Y
+(03) 8470 3207
+Y
+VIC
+Melbourne/Moorabbin
+YMMB
+Y
+N
+Y
+Y
+Y
+(03) 8470 3216
+Y
+NSW
+Merimbula
+YMER
+Y
+N
+Y
+Y
+Y
+(02) 9353 6434
+Y
+VIC
+Mildura
+YMIA
+Y
+N
+Y
+Y
+Y
+(03) 8470 3215
+Y
+NT
+Milingimbi
+YMGB
+N
+N
+Y
+N
+N
+(08) 7922 2511
+Y
+SA
+Moomba
+YOOM
+Y
+N
+Y
+Y
+Y
+(08) 8150 3808
+Y
+QLD
+Moranbah
+YMRB
+Y
+N
+Y
+Y
+Y
+(07) 3564 3727
+Y
+WA
+Morawa
+YMRW
+N
+N
+Y
+N
+N
+N
+N
+NSW
+Moree
+YMOR
+Y
+N
+Y
+Y
+Y
+(02) 9353 6435
+Y
+QLD
+Mornington Island
+YMTI
+Y
+N
+Y
+Y
+Y
+(07) 3564 3728
+N
+NSW
+Moruya
+YMRY
+Y
+N
+Y
+Y
+Y
+(02) 9353 6436
+Y
+NSW
+Moss Vale
+MSV
+N
+N
+Y
+Y
+Y
+(02) 9353 6437
+N
+NSW
+Mount Boyce
+MTB
+N
+N
+Y
+Y
+Y
+(02) 9353 6438
+N
+VIC
+Mount Buller
+YBXU
+N
+N
+Y
+N
+N
+N
+N
+SA
+Mount Gambier
+YMTG
+Y
+N
+Y
+Y
+Y
+(08) 8150 3809
+Y
+VIC
+Mount Hotham
+YHOT
+N
+N
+Y
+Y
+Y
+(03) 8470 3217
+Y
+QLD
+Mount Isa
+YBMA
+Y
+N
+Y
+Y
+Y
+(07) 3564 3729
+Y
+WA
+Mount Keith
+YMNE
+N
+N
+Y
+Y
+Y
+N
+Y
+WA
+Mount Magnet
+YMOG
+Y
+N
+Y
+N
+N
+(08) 6216 2627
+Y
+NSW
+Mudgee
+YMDG
+Y
+N
+Y
+Y
+Y
+(02) 9353 6439
+N
+SA
+Murray Bridge
+YMBD
+Y
+N
+Y
+Y
+Y
+N
+N
+NSW
+Murrurundi
+MUI
+N
+N
+Y
+Y
+Y
+(02) 9353 6440
+N
+SA
+Naracoorte
+YNRC
+Y
+N
+Y
+N
+N
+(08) 8150 3810
+N
+NSW
+Narrabri
+YNBR
+Y
+N
+Y
+Y
+Y
+(02) 9353 6441
+Y
+NSW
+Narrandera
+YNAR
+Y
+N
+Y
+Y
+Y
+(02) 9353 6442
+Y
+WA
+Newman
+YNWN
+Y
+N
+Y
+Y
+Y
+(08) 6216 2628
+Y
+NT
+Ngukurr
+YNGU
+Y
+N
+Y
+N
+N
+N
+N
+VIC
+Nhill
+YNHL
+N
+N
+Y
+N
+N
+(03) 8470 3218
+N
+NSW
+Norfolk Island
+YSNF
+Y
+N
+Y
+Y
+Y
+(02) 9353 6443
+N
+QLD
+Normanton
+YNTN
+Y
+N
+Y
+Y
+Y
+(07) 3564 3730
+Y
+WA
+Norseman
+YNSM
+N
+N
+Y
+N
+N
+(08) 6216 2629
+N
+NSW
+Nowra
+YSNW
+Y
+Y**
+Y
+Y
+Y
+(02) 9353 6444
+Y
+QLD
+Oakey
+YBOK
+Y
+Y
+Y
+Y
+(07) 3564 3731
+N
+4
+PUBLISHED 5 APRIL 2022
+STATE
+LOCATION
+ID
+TAF
+TAF3
+AWS
+CEILOMETER
+VISMETER
+AWIS NO.
+AWIS FREQ.
+SA
+Olympic Dam
+YOLD
+Y
+N
+Y
+Y
+Y
+(08) 8150 3811
+Y
+WA
+Onslow
+YOLW
+Y
+N
+Y
+N
+N
+(08) 6216 2630
+N
+SA
+Oodnadatta
+YOOD
+N
+N
+Y
+N
+N
+(08) 8150 3812
+N
+NSW
+Orange
+YORG
+Y
+N
+Y
+Y
+Y
+(02) 9353 6445
+Y
+WA
+Paraburdoo
+YPBO
+Y
+N
+Y
+Y
+Y
+(08) 6216 2631
+Y
+NSW
+Parkes
+YPKS
+Y
+N
+Y
+Y
+Y
+(02) 9353 6446
+Y
+WA
+Pearce
+YPEA
+Y
+Y**
+Y
+Y
+Y
+(08) 6216 2632
+Y
+WA
+Perth
+YPPH
+Y
+Y
+Y
+Y
+Y
+(08) 6216 2633
+N
+WA
+Perth/Jandakot
+YPJT
+Y
+N
+Y
+Y
+Y
+(08) 6216 2618
+Y
+SA
+Port Augusta
+YPAG
+Y
+N
+Y
+Y
+Y
+(08) 8150 3814
+N
+WA
+Port Hedland
+YPPD
+Y
+N
+Y
+Y
+Y
+(08) 6216 2634
+Y
+NT
+Port Keats
+YPKT
+Y
+N
+Y
+N
+N
+(08) 7922 2512
+Y
+SA
+Port Lincoln
+YPLC
+Y
+N
+Y
+Y
+Y
+(08) 8150 3815
+Y
+NSW
+Port Macquaire
+YPMQ
+Y
+N
+Y
+Y
+Y
+(02) 9353 6447
+Y
+VIC
+Portland
+YPOD
+Y
+N
+Y
+Y
+Y
+(03) 8470 3204
+Y
+QLD
+Proserpine/Whitsunday Coast
+YBPN
+Y
+N
+Y
+Y
+Y
+(07) 3564 3732
+Y
+SA
+Renmark
+YREN
+Y
+N
+Y
+Y
+Y
+(08) 8150 3817
+Y
+NSW
+Richmond (NSW)
+YSRI
+Y
+N
+Y
+Y
+Y
+(02) 9353 6448
+Y
+QLD
+Richmond (QLD)
+YRMD
+Y
+N
+Y
+Y
+Y
+(07) 3564 3733
+N
+SA
+Robe
+YRBE
+N
+N
+Y
+N
+N
+N
+N
+QLD
+Rockhampton
+YBRK
+Y
+N
+Y
+Y
+Y
+(07) 3564 3734
+N
+WA
+Roebourne
+YROE
+N
+N
+Y
+N
+N
+N
+N
+QLD
+Roma
+YROM
+Y
+N
+Y
+Y
+Y
+(07) 3564 3735
+Y
+WA
+Rottnest Island
+YRTI
+N
+N
+Y
+N
+N
+(08) 6216 2635
+Y
+QLD
+Saint George
+YSGE
+Y
+N
+Y
+Y
+Y
+N
+N
+TAS
+Saint Helens
+YSTH
+Y
+N
+Y
+Y
+Y
+(03) 6283 8606
+N
+QLD
+Scherger (RAAF)
+YBSG
+N
+N
+Y
+Y
+N
+(07) 3564 3737
+N
+NSW
+Scone
+YSCO
+Y
+N
+Y
+Y
+Y
+(02) 9353 6449
+Y
+WA
+Shark Bay
+YSHK
+Y
+N
+Y
+N
+N
+(08) 6216 2636
+N
+NSW
+Shellharbour Airport
+YSHL
+Y
+N
+Y
+Y
+Y
+(02) 9353 6461
+Y
+VIC
+Shepparton
+YSHT
+Y
+N
+Y
+Y
+Y
+(03) 8470 3219
+Y
+TAS
+Smithton
+YSMI
+N
+N
+Y
+N
+N
+(03) 6283 8605
+N
+WA
+Solomon
+YSOL
+Y
+N
+Y
+Y
+Y
+N
+Y
+NT
+South Goulburn Island
+YGBI
+N
+N
+Y
+N
+N
+N
+N
+WA
+Southern Cross
+YSCR
+Y
+N
+Y
+Y
+Y
+(08) 6216 2637
+N
+VIC
+Stawell
+YSWL
+N
+N
+Y
+N
+N
+(03) 8470 3220
+Y
+TAS
+Strahan
+YSRN
+Y
+N
+Y
+Y
+Y
+(03) 6283 8607
+N
+QLD
+Sunshine Coast
+YBSU
+Y
+N
+Y
+Y
+Y
+(07) 3564 3738
+Y
+VIC
+Swan Hill
+YSWH
+Y
+N
+Y
+Y
+Y
+(03) 8470 3221
+N
+NSW
+Sydney/Kingsford Smith
+YSSY
+Y
+Y
+Y
+Y
+Y
+(02) 9353 6450
+N
+NSW
+Sydney/Bankstown
+YSBK
+Y
+N
+Y
+Y
+Y
+(02) 9353 6403
+N
+NSW
+Tamworth
+YSTW
+Y
+N
+Y
+Y
+Y
+(02) 9353 6451
+N
+SA
+Tarcoola
+YTAR
+N
+N
+Y
+N
+N
+(08) 8150 3818
+N
+NSW
+Taree
+YTRE
+Y
+N
+Y
+Y
+Y
+(02) 9353 6452
+N
+WA
+Telfer
+YTEF
+Y
+N
+Y
+Y
+Y
+(08) 6216 2638
+Y
+NSW
+Temora
+YTEM
+Y
+N
+Y
+N
+N
+(02) 9353 6453
+Y
+NT
+Tennant Creek
+YTNK
+Y
+N
+Y
+Y
+Y
+(08) 7922 2513
+Y
+QLD
+Thangool
+YTNG
+Y
+N
+Y
+Y
+Y
+(07) 3564 3739
+Y
+QLD
+Thargomindah
+YTGM
+Y
+N
+Y
+Y
+Y
+(07) 3564 3740
+N
+NT
+The Granites
+YTGT
+Y
+N
+N
+N
+N
+N
+N
+QLD
+The Monument
+YTMO
+Y
+N
+Y
+Y
+Y
+(07) 3564 3741
+Y
+PUBLISHED 5 APRIL 2022
+5
+STATE
+LOCATION
+ID
+TAF
+TAF3
+AWS
+CEILOMETER
+VISMETER
+AWIS NO.
+AWIS FREQ.*
+NSW
+Tibooburra
+YTIB
+N
+N
+Y
+N
+N
+(02) 9353 6454
+N
+NT
+Tindal
+YPTN
+Y
+Y**
+|
+Y
+Y
+Y
+(08) 7922 2514
+Y
+QLD
+Toowoomba
+YTWB
+Y
+N
+Y
+Y
+Y
+(07) 3564 3742
+Y
+QLD
+Townsville/ Townsville INTL
+YBTL
+Y
+Y**
+I
+Y
+Y
+Y
+(07) 3564 3743
+Y
+QLD
+Trepell
+YTEE
+Y
+N
+Y
+Y
+Y
+(07) 3564 3744
+Y
+WA
+Tropicana
+YTRA
+Y
+N
+Y
+Y
+Y
+(08) 6216 2639
+Y
+NT
+Troughton Island
+YTTI
+N
+N
+Y
+N
+N
+N
+N
+WA
+Truscott-Mungalalu
+YTST
+Y
+N
+Y
+Y
+Y
+N
+Y
+NT
+Victoria River Downs
+YVRD
+N
+N
+Y
+N
+N
+(08) 7922 2515
+N
+NSW
+Wagga Wagga
+YSWG
+Y
+N
+Y
+Y
+Y
+(02) 9353 6455
+Y
+NSW
+Walgett
+YWLG
+Y
+N
+Y
+Y
+Y
+(02) 9353 6456
+Y
+VIC
+Wangaratta
+YWGT
+Y
+N
+Y
+Y
+Y
+(03) 8470 3222
+Y
+WA
+Warburton
+YWBR
+Y
+N
+Y
+N
+N
+(08) 6216 2640
+N
+VIC
+Warracknabeal
+YWKB
+N
+N
+Y
+N
+N
+(03) 8470 3223
+N
+VIC
+Warrnambool
+YWBL
+Y
+N
+Y
+Y
+Y
+(03) 8470 3224
+Y
+QLD
+Weipa
+YBWP
+Y
+N
+Y
+Y
+Y
+(07) 3564 3745
+Y
+WA
+West Angelas
+YANG
+Y
+N
+Y
+Y
+Y
+(08) 6332 8175
+Y
+NSW
+West Wyalong
+YWWL
+N
+N
+Y
+N
+N
+(02) 9353 6457
+N
+SA
+Whyalla
+YWHA
+Y
+N
+Y
+Y
+Y
+(08) 8150 3819
+Y
+NSW
+Wilcannia
+YWCA
+N
+N
+Y
+N
+N
+(02) 9353 6459
+Y
+QLD
+Williamson
+YWIS
+N
+N
+Y
+N
+N
+(07) 3564 3747
+N
+NSW
+Williamtown
+YWLM
+Y
+Y**
+Y
+Y
+Y
+(02) 9353 6460
+Y
+WA
+Wiluna
+YWLU
+Y
+N
+N
+Y
+Y
+(08) 6216 2641
+N
+QLD
+Windorah
+YWDH
+Y
+N
+Y
+Y
+Y
+N
+N
+QLD
+Winton
+YWTN
+Y
+N
+Y
+N
+N
+N
+N
+SA
+Woomera
+YPWR
+Y
+N
+Y
+Y
+Y
+(08) 8150 3820
+N
+SA
+Wudinna
+YWUD
+N
+N
+Y
+N
+N
+(08) 8150 3821
+N
+WA
+Wyndham
+YWYM
+N
+N
+Y
+N
+N
+(08) 6216 2642
+N
+TAS
+Wynyard
+YWYY
+Y
+N
+Y
+Y
+Y
+(03) 6283 8608
+Y
+VIC
+Yarram
+YYRM
+N
+N
+Y
+N
+N
+(03) 8470 3225
+Y
+VIC
+Yarrawonga
+YYWG
+N
+N
+Y
+N
+N
+N
+N
+NSW
+Young
+YYNG
+Y
+N
+Y
+Y
+Y
+(02) 9353 6462
+Y
+NT
+Yuendumu
+YYND
+Y
+N
+N
+N
+N
+N
+N
+SA
+Yunta
+YYUN
+N
+N
+Y
+N
+N
+N
+N
+*
+Refer to ERSA for any additional information.
+TAF3 for these locations will only be provided when the office is manned. |
+|
+Indicates a change from previous edition
+6
+PUBLISHED 5 APRIL 2022
